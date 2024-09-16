@@ -2,7 +2,7 @@
 
 ![Infrastructure, Operations & Networking](https://its.unc.edu/wp-content/uploads/sites/337/2014/07/command-center-1024-537.jpg)
 
-This github organization is maintained by team of DEVOPS engineers within [UNC Information Technology Services](https://its.unc.edu) and [Infrastructure, Operations & Networking](https://its.unc.edu/about-us/what-we-do/it-infrastructure-operations/).  Tooling is specifically centered on the Networking group but team members have source from various departments over time.  Repositories are hosted here to collaborate and share work with other teams in and out of higher education.
+This github organization is maintained by a team of DEVOPS engineers within [UNC Information Technology Services](https://its.unc.edu) and more specifically [Infrastructure, Operations & Networking](https://its.unc.edu/about-us/what-we-do/it-infrastructure-operations/).  Tooling is centered on the Networking group but team members have source from various departments over time.  Repositories are hosted here to collaborate and share work with other teams, in and out of higher education.
 
 ## Operations Center
 
